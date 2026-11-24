@@ -38,7 +38,7 @@
 		"assert-plus": "0.1.5",
 		"mocha": "1.15.1",
 		"jslint": "0.2.5",
-		"madge": "0.1.7",
+		"madge": "4.0.1",
 		"npmedge": "0.1.4"
 	},
 	"main": "index",
